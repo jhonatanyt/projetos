@@ -1,0 +1,16 @@
+# Lista de Tarefas
+
+## Objetivos do Projeto
+Desenvolver um aplicativo simples de lista de tarefas para ajudar os usuários a organizar suas atividades diárias.
+
+## Funcionalidades
+- Adicionar tarefas
+- Marcar tarefas como concluídas
+- Excluir tarefas
+- Visualizar todas as tarefas
+
+## Cronograma de Desenvolvimento
+- Semana 1: Planejamento e configuração do repositório
+- Semana 2: Desenvolvimento da interface do usuário
+- Semana 3: Implementação da lógica do backend
+- Semana 4: Testes e documentação
